@@ -1,0 +1,10 @@
+C:\Users\lzh88\source\repos\Asg2-zxl170007\Asg2-zxl170007\bin\Debug\Asg2-zxl170007.exe.config
+C:\Users\lzh88\source\repos\Asg2-zxl170007\Asg2-zxl170007\bin\Debug\Asg2-zxl170007.exe
+C:\Users\lzh88\source\repos\Asg2-zxl170007\Asg2-zxl170007\bin\Debug\Asg2-zxl170007.pdb
+C:\Users\lzh88\source\repos\Asg2-zxl170007\Asg2-zxl170007\obj\Debug\Asg2_zxl170007.Properties.Resources.resources
+C:\Users\lzh88\source\repos\Asg2-zxl170007\Asg2-zxl170007\obj\Debug\Asg2-zxl170007.csproj.GenerateResource.cache
+C:\Users\lzh88\source\repos\Asg2-zxl170007\Asg2-zxl170007\obj\Debug\Asg2-zxl170007.csproj.CoreCompileInputs.cache
+C:\Users\lzh88\source\repos\Asg2-zxl170007\Asg2-zxl170007\obj\Debug\Asg2-zxl170007.exe
+C:\Users\lzh88\source\repos\Asg2-zxl170007\Asg2-zxl170007\obj\Debug\Asg2-zxl170007.pdb
+C:\Users\lzh88\source\repos\Asg2-zxl170007\Asg2-zxl170007\obj\Debug\Asg2-zxl170007.csprojAssemblyReference.cache
+C:\Users\lzh88\source\repos\Asg2-zxl170007\Asg2-zxl170007\obj\Debug\Asg2_zxl170007.rebate_form.resources
